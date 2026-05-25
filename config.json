@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvrocess",
+        "uuid": 1681755,
+        "checksum": "qeqoy9c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
